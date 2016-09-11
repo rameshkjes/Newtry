@@ -1,0 +1,11 @@
+First of all 
+git clone SSH key
+git pull origin master
+git status
+git remote -v
+git branch 
+to create branch git checkout -b branch_name
+make directory and file 
+save it 
+and then push that to online reposity
+git push origin master
